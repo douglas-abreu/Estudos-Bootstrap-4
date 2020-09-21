@@ -1,3 +1,3 @@
 ## Preview da prática
 
-![prática listgroup](img/preview.JPEG)
+![prática listgroup](img/preview.JPG)
